@@ -9,3 +9,6 @@
 
 ## D3:
 * completed till 3.6 there's so much to explore in Lesson 3 labs.
+
+## D4:
+* completed Lesson3 : 3.6 to 3.12 and Mockvita Questions
